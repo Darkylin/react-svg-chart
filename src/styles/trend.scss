@@ -1,0 +1,12 @@
+.svg-trend-animate {
+  animation: svg-trend-show 1.2s forwards;
+}
+
+@keyframes svg-trend-show {
+  from {
+    width: 0
+  }
+  to {
+    width: 100%
+  }
+}

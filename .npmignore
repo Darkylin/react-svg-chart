@@ -1,0 +1,6 @@
+cfg
+src
+node_modules
+test
+.*
+/*.js
